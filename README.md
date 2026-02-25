@@ -100,4 +100,4 @@ Enter code (required): anonymous
 <img width="761" height="159" alt="image" src="https://github.com/user-attachments/assets/dfe30cac-c484-470e-b0c2-c8f70f5261c9" />
 
 ## 주의
-이 코드는 MIT 라이선스 하에 오픈소스로 공개하였으며 누구나 자유롭게 복사 및 사용, 재배포할 수 있습니다. 이것을 활용함에 따른 법적 책임은 이용자에게 전부 귀속됩니다.
+이 코드는 취약점과 연관된 포함되어 있는지 확인하는 절차를 예시로 든 기업 측과 확인 중입니다. 이 문서는 현재는 비밀로 유지되어야 하며, 모든 확인을 거친 후 오픈소스로 공개됩니다.
