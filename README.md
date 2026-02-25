@@ -79,6 +79,8 @@ Enter code (required): anonymous
 
 <img width="1090" height="963" alt="image" src="https://github.com/user-attachments/assets/d4dc5156-6019-4b49-8f3a-7047d7eb55ac" />
 
+---
+
 설치가 완료되면 다음과 같이 우표 이미지가 나오며, 방문자의 실제 외부 IP와 웹 브라우저를 추적할 수 있습니다.
 
 <img width="234" height="161" alt="image" src="https://github.com/user-attachments/assets/ae0f6262-875a-493f-ab76-c9f6a31120fa" />
@@ -90,6 +92,8 @@ Enter code (required): anonymous
 대문 편집기 (스마트에디터)의 HTML 편집 기능을 활용하여 추적 코드를 삽입할 수 있습니다.
 
 <img width="978" height="772" alt="image" src="https://github.com/user-attachments/assets/1fff3b03-527e-4cd6-91ca-1f674e8b5769" />
+
+---
 
 설치가 완료되면 다음과 같이 우표 이미지가 나오며, 방문자의 실제 외부 IP와 웹 브라우저를 추적할 수 있습니다.
 
