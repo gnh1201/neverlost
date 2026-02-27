@@ -4,6 +4,14 @@
 
 다양한 고객 지원 시나리오에서 사용할 수 있는 범용 이용자 추적 도구
 
+## 배경
+
+2020년 구현을 2026년 2월 Cloudflare Workers로 포팅하면서, 기존보다 더 지원 폭이 큰 범용 이용자 추적 도구로 확장함. 다음과 같은 기술을 사용:
+
+  * Cloudflare Workers (Serverless)
+  * Cloudflare D1 (Database)
+  * Cloudflare R2 (Object Storage)
+
 ## 사용 방법
 
 ### 설치 방법
