@@ -113,4 +113,5 @@ Enter code (required): anonymous
 이 내용은 취약점을 이용하는 내용이 들어있지 않습니다. 일부 예시로 든 경우도 관련 업체에서도 버그가 아닌 기능이라고 답을 받았습니다.
 
 ## 문의
-abuse@catswords.re.kr
+* oss@catswords.re.kr
+* https://discord.com/invite/exPsSYpQfJ
