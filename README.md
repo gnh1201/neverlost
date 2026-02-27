@@ -11,6 +11,8 @@
   * Cloudflare Workers (Serverless)
   * Cloudflare D1 (Database)
   * Cloudflare R2 (Object Storage)
+  
+이미 배포가 된 상태라 `client.py` 파일을 통해 별도의 설치 과정 없이 바로 테스트하실 수 있습니다.
 
 ## 사용 방법
 
