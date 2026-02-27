@@ -1,3 +1,12 @@
+// Universial web visitor tracker on Cloudflare Workers (Serverless)
+// Namhyeon Go <gnh1201@catswords.re.kr>
+// https://github.com/gnh1201/neverlost
+//
+// Example of an endpoint rules:
+//  * https://domain.tld/marker/<tracking code>.png
+//  * https://domain.tld/marker/<tracking code>.css
+//  * https://domain.tld/marker/<tracking code>.js
+// 
 export interface Env {
   DB?: D1Database;
 
