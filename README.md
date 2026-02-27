@@ -1,5 +1,7 @@
 # neverlost
 
+[![Discord chat](https://img.shields.io/discord/359930650330923008?logo=discord)](https://discord.gg/exPsSYpQfJ?utm_source=catswords)
+
 다양한 고객 지원 시나리오에서 사용할 수 있는 범용 이용자 추적 도구
 
 ## 사용 방법
