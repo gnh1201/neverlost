@@ -109,5 +109,8 @@ Enter code (required): anonymous
 
 <img width="761" height="159" alt="image" src="https://github.com/user-attachments/assets/dfe30cac-c484-470e-b0c2-c8f70f5261c9" />
 
-## 주의
-이 내용은 취약점을 이용하지 않으며, 예시로 든 경우도 관련 서비스 업체에서 버그가 아닌 기능이라고 답을 얻은 점 참고 바랍니다.
+## 참고사항
+이 내용은 취약점을 이용하는 내용이 들어있지 않습니다. 일부 예시로 든 경우도 관련 업체에서도 버그가 아닌 기능이라고 답을 받았습니다.
+
+## 문의
+abuse@catswords.re.kr
