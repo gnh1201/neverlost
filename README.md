@@ -89,9 +89,9 @@ Enter code (required): anonymous
 
 ## Using It on the blogs
 
-### Using the Custom Widget Feature
+### Using the Custom Widget
 
-You can insert the tracking code using the custom widget feature.
+You can insert the tracking code using the custom widget.
 
 <img width="1090" height="963" alt="image" src="https://github.com/user-attachments/assets/d4dc5156-6019-4b49-8f3a-7047d7eb55ac" />
 
