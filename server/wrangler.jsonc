@@ -19,6 +19,12 @@
 			"database_name": "non-repudition",
 			"database_id": "d16168f2-e19a-4b4e-8c13-d24f8cde6921"
 		}
+	],
+	"routes": [
+		{
+			"pattern": "neverlost.catswords.org",
+			"custom_domain": true
+		}
 	]
 	/**
 	 * Smart Placement
