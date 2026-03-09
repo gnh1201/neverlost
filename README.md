@@ -23,7 +23,7 @@ The service is already deployed, so you can test it immediately using the `clien
 Copy the tag below and paste it anywhere inside your HTML document.
 
 ```html
-<div style="margin: 10px auto; width: 32px; height: 32px; background: url(https://odd-paper-807c.gnh1201.workers.dev/marker/anonymous.png) no-repeat;" />
+<div style="margin: 10px auto; width: 32px; height: 32px; background: url(https://neverlost.catswords.org/marker/anonymous.png) no-repeat;" />
 ```
 
 The filename without the extension (e.g., `anonymous`) becomes the tracking code.
@@ -60,7 +60,7 @@ Enter code (required): anonymous
       "ts_iso": "<deducted>",
       "ts_ms": "<deducted>",
       "method": "GET",
-      "url": "https://odd-paper-807c.gnh1201.workers.dev/marker/anonymous.png",
+      "url": "https://neverlost.catswords.org/marker/anonymous.png",
       "pathname": "/marker/anonymous.png",
       "code": "anonymous",
       "ext": "png",

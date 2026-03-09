@@ -25,7 +25,9 @@
 			"pattern": "neverlost.catswords.org",
 			"custom_domain": true
 		}
-	]
+	],
+	"workers_dev": true,
+	"preview_urls": true
 	/**
 	 * Smart Placement
 	 * https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
