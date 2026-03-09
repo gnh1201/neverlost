@@ -23,7 +23,7 @@
 아래 태그를 HTML 문서 내 임의의 위치에 복사하세요.
 
 ```html
-<div style="margin: 10px auto; width: 32px; height: 32px; background: url(https://odd-paper-807c.gnh1201.workers.dev/marker/anonymous.png) no-repeat;" />
+<div style="margin: 10px auto; width: 32px; height: 32px; background: url(https://neverlost.catswords.org/marker/anonymous.png) no-repeat;" />
 ```
 
 확장자를 제외한 파일 이름(예: anonymous)가 추적 코드가 됩니다.
@@ -58,7 +58,7 @@ Enter code (required): anonymous
       "ts_iso": "<deducted>",
       "ts_ms": "<deducted>",
       "method": "GET",
-      "url": "https://odd-paper-807c.gnh1201.workers.dev/marker/anonymous.png",
+      "url": "https://neverlost.catswords.org/marker/anonymous.png",
       "pathname": "/marker/anonymous.png",
       "code": "anonymous",
       "ext": "png",
